@@ -1,1 +1,1 @@
-# Backdoors for file extionsion bypass
+# Backdoors for bypassing file extionsion
